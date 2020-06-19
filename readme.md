@@ -16,6 +16,10 @@
 2. Sonam
 
 ## This is Formatting
-* This is Italic Format
-** This is Bold Format
-~~ This is strike format
+*This is Italic Format*
+**This is Bold Format**
+~~This is strike format~~
+
+## Web link and email 
+<https://xyz.com>
+<xyz@gmail.com>
