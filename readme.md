@@ -21,5 +21,6 @@
 ~~This is strike format~~
 
 ## Web link and email 
-<https://xyz.com>
-<xyz@gmail.com>
+**Weblink:** <https://xyz.com>
+
+**Eamil address:** <xyz@gmail.com>
